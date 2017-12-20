@@ -1,5 +1,5 @@
 {
-  "name": "lokielse/laravel-mns",
+  "name": "yaojingwei/laravel-mns",
   "type": "library",
   "description": "Aliyun MNS Queue Driver For Laravel",
   "keywords": [
@@ -28,7 +28,7 @@
   "require": {
     "laravel/framework": "~5.1",
     "php": "~5.5|~7.0",
-    "lokielse/aliyun-open-api-mns": "^1.0.2"
+    "yaojingwei/aliyun-open-api-mns": "^1.0.3"
   },
   "require-dev": {
     "phpunit/phpunit": "~4.0||~5.0",
